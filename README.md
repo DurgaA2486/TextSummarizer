@@ -17,7 +17,7 @@ This text summarizer is built using Streamlit to create a user-friendly web-base
 6. **Display Summary:**
    - Once the "Summarize" button is clicked, the app processes the text and displays the summarized content based on the word limit specified.
      
-##Dependencies
+## Dependencies:
 **Streamlit:** Used for building the web interface.
 **Bard API Client:** For interacting with Google's Bard API to generate summaries.
 **pypdf:** For extracting text from PDF files.
